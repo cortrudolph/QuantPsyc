@@ -1,3 +1,9 @@
+To Install:
+
+#install.packages("remotes")
+library(remotes)
+remotes::install_github("cortrudolph/QuantPsyc")
+
 Changes to v. 1.2 
 	changed affiliation from @umsl.edu to @statefarm.com
 
